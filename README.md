@@ -1,4 +1,7 @@
 # Atliq-Grands-Hospitality-Data-Analytics
+
+**DASHBOARD LINK**:-https://app.powerbi.com/view?r=eyJrIjoiMTFjNDc3ZmYtM2RlMi00OTVhLTlmMzAtNzNmZDUzODcwMjNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection6d362930a3282ae4bb32
+
 🚀 **Empowering AtliQ Grand: A Power BI Success Story in Hospitality** 🏨
 
 I'm thrilled to share the successful completion of a transformative Power BI project for AtliQ Grand in the hospitality domain! 🌟
