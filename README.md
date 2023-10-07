@@ -1,6 +1,6 @@
 # Atliq-Grands-Hospitality-Data-Analytics
 
-**DASHBOARD LINK**:-https://app.powerbi.com/view?r=eyJrIjoiMTFjNDc3ZmYtM2RlMi00OTVhLTlmMzAtNzNmZDUzODcwMjNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection6d362930a3282ae4bb32
+**DASHBOARD LINK**:-[Link](https://app.powerbi.com/view?r=eyJrIjoiMTFjNDc3ZmYtM2RlMi00OTVhLTlmMzAtNzNmZDUzODcwMjNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection6d362930a3282ae4bb32)
 
 🚀 **Empowering AtliQ Grand: A Power BI Success Story in Hospitality** 🏨
 
