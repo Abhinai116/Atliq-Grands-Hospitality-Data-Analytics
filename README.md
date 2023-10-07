@@ -52,4 +52,6 @@ Power BI has empowered AtliQ Grand to monitor their direct booking percentage. R
 ➡DURN
 
 **Project Outcomes:-**
-This dashboard helped them to gain the insights about the revenue and occupancy and they made a decision of having dynamic pricing of their hotels and succesfully gained the profits by 15%.
+With this dashboard, the Revenue team of Atliq Grands was able to gain insights into their revenue trend. This could help in regaining their revenue and market share by 15% in the next month.
+
+
